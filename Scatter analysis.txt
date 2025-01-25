@@ -1,0 +1,7 @@
+#Scatter analysis
+plt.figure(figsize=(10, 5))
+plt.scatter(data1['Region'], data1['Mac Sales (in million units)'], color='skyblue')
+plt.title('Region vs Mac Sales (in million units)')
+plt.xlabel('Region')
+plt.ylabel('Mac Sales (in million units)')
+plt.show()

@@ -1,0 +1,3 @@
+#State analysis
+state=data1["State"].value_counts()
+print(state)

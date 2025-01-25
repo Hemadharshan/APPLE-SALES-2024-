@@ -1,0 +1,2 @@
+data1= pd.read_csv(r"C:\Users\Sanjay\Desktop\csv\archive\apple_sales_2024.csv")
+data1

@@ -1,0 +1,3 @@
+#Region analysis
+region=data1["Region"].value_counts()
+ print(region)

@@ -1,0 +1,6 @@
+plt.figure(figsize=(10,5)) 
+sns.countplot(x='State',data=data1) 
+plt.title('NUMBER OF SALES IN STATE') 
+plt.xlabel('STATE') 
+plt.ylabel('NUMBER OF IPAD SALES') 
+plt.show()
